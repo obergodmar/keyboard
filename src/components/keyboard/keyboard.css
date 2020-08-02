@@ -1,0 +1,35 @@
+.keyboard {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 1% 0.5% 0.7%;
+    background-color: #f0f2f6;
+    border-radius: 1vw;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    box-shadow: 0 2vw 4vw rgba(0, 0, 0, 0.35),
+    0 0.5vw 2vw rgba(0, 0, 0, 0.4);
+}
+
+.keyboard:before {
+    position: absolute;
+    content: '';
+    top: 4%;
+    left: 1%;
+    width: 98%;
+    height: 92%;
+    background-color: #787777;
+    box-shadow: 0 0 0.4vw rgba(0, 0, 0, 1),
+    0 -0.5vw 1vw rgba(0, 0, 0, 0.4),
+    0 0.5vw 1vw rgba(0, 0, 0, 0.4);
+    border-radius: 0.5vw;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.row + .row {
+    margin-top: 0.2%;
+}

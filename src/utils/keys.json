@@ -1,0 +1,339 @@
+{
+  "rows": [
+    [
+      {
+        "name": "Esc",
+        "code": 27,
+        "value": "Escape"
+      },
+      {
+        "name": "1",
+        "secondName": "!",
+        "code": 49,
+        "value": "Digit1"
+      },
+      {
+        "name": "2",
+        "secondName": "@",
+        "code": 50,
+        "value": "Digit2"
+      },
+      {
+        "name": "3",
+        "secondName": "#",
+        "code": 51,
+        "value": "Digit3"
+      },
+      {
+        "name": "4",
+        "secondName": "$",
+        "code": 52,
+        "value": "Digit4"
+      },
+      {
+        "name": "5",
+        "secondName": "%",
+        "code": 53,
+        "value": "Digit5"
+      },
+      {
+        "name": "6",
+        "secondName": "^",
+        "code": 54,
+        "value": "Digit6"
+      },
+      {
+        "name": "7",
+        "secondName": "&",
+        "code": 55,
+        "value": "Digit7"
+      },
+      {
+        "name": "8",
+        "secondName": "*",
+        "code": 56,
+        "value": "Digit8"
+      },
+      {
+        "name": "9",
+        "secondName": "(",
+        "code": 57,
+        "value": "Digit9"
+      },
+      {
+        "name": "0",
+        "secondName": ")",
+        "code": 48,
+        "value": "Digit0"
+      },
+      {
+        "name": "-",
+        "secondName": "_",
+        "code": 189,
+        "value": "Minus"
+      },
+      {
+        "name": "=",
+        "secondName": "+",
+        "code": 187,
+        "value": "Equal"
+      },
+      {
+        "name": "Backspace",
+        "code": 8,
+        "value": "Backspace"
+      }
+    ],
+    [
+      {
+        "name": "Tab",
+        "code": 9,
+        "value": "Tab"
+      },
+      {
+        "name": "Q",
+        "code": 81,
+        "value": "KeyQ"
+      },
+      {
+        "name": "W",
+        "code": 87,
+        "value": "KeyW"
+      },
+      {
+        "name": "E",
+        "code": 69,
+        "value": "KeyE"
+      },
+      {
+        "name": "R",
+        "code": 82,
+        "value": "KeyR"
+      },
+      {
+        "name": "T",
+        "code": 84,
+        "value": "KeyT"
+      },
+      {
+        "name": "Y",
+        "code": 89,
+        "value": "KeyY"
+      },
+      {
+        "name": "U",
+        "code": 85,
+        "value": "KeyU"
+      },
+      {
+        "name": "I",
+        "code": 73,
+        "value": "KeyI"
+      },
+      {
+        "name": "O",
+        "code": 79,
+        "value": "KeyO"
+      },
+      {
+        "name": "P",
+        "code": 80,
+        "value": "KeyP"
+      },
+      {
+        "name": "[",
+        "secondName": "{",
+        "code": 219,
+        "value": "BracketLeft"
+      },
+      {
+        "name": "]",
+        "secondName": "}",
+        "code": 221,
+        "value": "BracketRight"
+      },
+      {
+        "name": "\\",
+        "secondName": "|",
+        "code": 220,
+        "value": "Backslash"
+      }
+    ],
+    [
+      {
+        "name": "Caps Lock",
+        "code": 20,
+        "value": "CapsLock"
+      },
+      {
+        "name": "A",
+        "code": 65,
+        "value": "KeyA"
+      },
+      {
+        "name": "S",
+        "code": 83,
+        "value": "KeyS"
+      },
+      {
+        "name": "D",
+        "code": 68,
+        "value": "KeyD"
+      },
+      {
+        "name": "F",
+        "code": 70,
+        "value": "KeyF"
+      },
+      {
+        "name": "G",
+        "code": 71,
+        "value": "KeyG"
+      },
+      {
+        "name": "H",
+        "code": 72,
+        "value": "KeyH"
+      },
+      {
+        "name": "J",
+        "code": 74,
+        "value": "KeyJ"
+      },
+      {
+        "name": "K",
+        "code": 75,
+        "value": "KeyK"
+      },
+      {
+        "name": "L",
+        "code": 76,
+        "value": "KeyL"
+      },
+      {
+        "name": ";",
+        "secondName": ":",
+        "code": 186,
+        "value": "Semicolon"
+      },
+      {
+        "name": "'",
+        "secondName": "\"",
+        "code": 222,
+        "value": "Quote"
+      },
+      {
+        "name": "Enter",
+        "code": 13,
+        "value": "Enter"
+      }
+    ],
+    [
+      {
+        "name": "Shift",
+        "code": 16,
+        "value": "ShiftLeft"
+      },
+      {
+        "name": "Z",
+        "code": 90,
+        "value": "KeyZ"
+      },
+      {
+        "name": "X",
+        "code": 88,
+        "value": "KeyX"
+      },
+      {
+        "name": "C",
+        "code": 67,
+        "value": "KeyC"
+      },
+      {
+        "name": "V",
+        "code": 86,
+        "value": "KeyV"
+      },
+      {
+        "name": "B",
+        "code": 66,
+        "value": "KeyB"
+      },
+      {
+        "name": "N",
+        "code": 78,
+        "value": "KeyN"
+      },
+      {
+        "name": "M",
+        "code": 77,
+        "value": "KeyM"
+      },
+      {
+        "name": ",",
+        "secondName": "<",
+        "code": 188,
+        "value": "Comma"
+      },
+      {
+        "name": ".",
+        "secondName": ">",
+        "code": 190,
+        "value": "Period"
+      },
+      {
+        "name": "/",
+        "secondName": "?",
+        "code": 191,
+        "value": "Slash"
+      },
+      {
+        "name": "Shift",
+        "code": 16,
+        "value": "ShiftRight"
+      }
+    ],
+    [
+      {
+        "name": "Ctrl",
+        "code": 17,
+        "value": "ControlLeft"
+      },
+      {
+        "name": "Win",
+        "code": 91,
+        "value": "MetaLeft"
+      },
+      {
+        "name": "Alt",
+        "code": 18,
+        "value": "AltLeft"
+      },
+      {
+        "name": "",
+        "code": 32,
+        "value": "Space"
+      },
+      {
+        "name": "Alt",
+        "code": 18,
+        "value": "AltRight"
+      },
+      {
+        "name": "Fn",
+        "code": -1,
+        "value": "Fn"
+      },
+      {
+        "name": "Pn",
+        "code": -1,
+        "value": "Pn"
+      },
+      {
+        "name": "Ctrl",
+        "code": 17,
+        "value": "ControlRight"
+      }
+    ]
+  ]
+}

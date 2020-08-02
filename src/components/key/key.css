@@ -1,0 +1,66 @@
+.shape {
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    width: 100%;
+    background-color: #dddcde;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+}
+
+.shape:hover {
+    border-color: #ff0000;
+    background-color: #ff8f8f;
+}
+
+.shape:hover .key {
+    color: #787777;
+    border-color: #ff0000;
+    background-color: #ffd1d1;
+}
+
+.shapeRight {
+    justify-content: flex-end;
+}
+
+.key {
+    height: 80%;
+    color: #acaaa9;
+    font-weight: bold;
+    font-family: Roboto, sans-serif;
+    text-transform: capitalize;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transform: scale(0.95);
+    background-color: #f1f1f1;
+    border: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.special {
+    justify-content: flex-end;
+}
+
+.specialRight {
+    align-items: flex-end;
+}
+
+.backslash {
+    align-items: flex-start;
+}
+
+.space {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    padding: 0;
+    transform: translate(-50%, -50%) scaleX(1.02);
+}
+
+.isPressed {
+    position: absolute;
+    background-color: rgba(255, 0, 0, 0.4);
+    color: #ffffff;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%) scale(1);
+}
